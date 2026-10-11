@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\bin\Debug\net8.0\Remont_Na_Plo4ki_MVC.exe
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\bin\Debug\net8.0\Remont_Na_Plo4ki_MVC.deps.json
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\bin\Debug\net8.0\Remont_Na_Plo4ki_MVC.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\bin\Debug\net8.0\Remont_Na_Plo4ki_MVC.dll
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\bin\Debug\net8.0\Remont_Na_Plo4ki_MVC.pdb
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\obj\Debug\net8.0\Remont_Na_Plo4ki_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\obj\Debug\net8.0\Remont_Na_Plo4ki_MVC.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\obj\Debug\net8.0\Remont_Na_Plo4ki_MVC.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\obj\Debug\net8.0\Remont_Na_Plo4ki_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\obj\Debug\net8.0\Remont_Na_Plo4ki_MVC.dll
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\obj\Debug\net8.0\refint\Remont_Na_Plo4ki_MVC.dll
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\obj\Debug\net8.0\Remont_Na_Plo4ki_MVC.pdb
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\obj\Debug\net8.0\Remont_Na_Plo4ki_MVC.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Programing\Alex11A\Remont_Na_Plo4ki_MVC\obj\Debug\net8.0\ref\Remont_Na_Plo4ki_MVC.dll
